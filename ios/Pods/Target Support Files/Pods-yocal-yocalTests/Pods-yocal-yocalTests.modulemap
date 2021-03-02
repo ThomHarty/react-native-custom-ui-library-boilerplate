@@ -1,0 +1,6 @@
+module Pods_yocal_yocalTests {
+  umbrella header "Pods-yocal-yocalTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
